@@ -1,0 +1,43 @@
+
+
+body {
+    background-color: #083B4C;
+}
+
+h1 {
+  color: #fff;
+  font-size: 5em;
+  margin: 0 auto; 
+}
+
+main { 
+  margin: 50px 100px;
+}
+
+.items {
+  padding: 50px;
+  margin: 20px;
+}
+
+.buzz {
+  margin: 20px;
+  background-color: #FFD166;
+}
+
+.fizz {
+  margin: 20px;
+  background-color: #08D6A0; 
+}
+
+.number {
+  margin: 20px;
+  background-color: #1289B2;
+} 
+
+.fizzBuzz {
+  padding: 50px;
+  margin: 20px;
+  max-width: 50px;
+  background-color: #F0466F;
+  text-align: center;
+}
